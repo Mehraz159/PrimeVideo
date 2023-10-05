@@ -61,6 +61,7 @@
     justify-content: space-around;
     margin-top: 50px;
     text-align: center;
+    flex-wrap: wrap;
 
 }
 
@@ -78,6 +79,7 @@
     height: 36vw;
     display: flex;
     align-items: center;
+
 }
 
 .mainbenefits {
@@ -110,6 +112,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
 }
 
 .links a {
