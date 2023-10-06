@@ -8,7 +8,7 @@
     background-color: rgb(33, 33, 33);
 }
 
-@media(min-width: 1000px) {
+@media(min-width: 1700px) {
 
     .mainimg {
         width: 55vw;
@@ -59,7 +59,7 @@
     font-size: 14px;
 }
 
-@media(max-width: 1000px) {
+@media(max-width: 1700px) {
     .main {
         max-height: 100vh;
     }
@@ -124,7 +124,7 @@
     font-size: 36px;
 }
 
-@media(min-width:1000px) {
+@media(min-width:1700px) {
     .text {
         font-size: 21px;
         width: 461px;
@@ -174,7 +174,7 @@
     object-fit: fill;
 }
 
-@media(min-width:1000px) {
+@media(min-width:1700px) {
     .lastpart {
         background-color: #222222;
         height: 100px;
